@@ -1,2 +1,2 @@
 # Hidden-Markov-Model
-Decode HMM with the Viterbi algorithm
+Automatic Speech Recognition : Decode HMM with the Viterbi algorithm
